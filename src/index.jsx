@@ -6,7 +6,7 @@ import Home from "./component/Home/Home"
 import Nav from "./component/Nav/Nav"
 import Projects from "./component/Projects/Projects"
 
-function App() {
+function Index() {
  
 
   return (
@@ -20,4 +20,4 @@ function App() {
   )
 }
 
-export default App
+export default Index
