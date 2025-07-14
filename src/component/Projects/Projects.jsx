@@ -72,17 +72,17 @@ function Projects() {
         </button>
         {showLinks && (
           <div className="links-dropdown">
-            <a href="https://github.com/Priyanxhu01/To-Do-App" target="_blank" rel="noopener noreferrer">
-              <FaExternalLinkAlt /> To-Do App
+            <a href="https://prisc808.pythonanywhere.com/" target="_blank" rel="noopener noreferrer">
+              <FaExternalLinkAlt /> Dairy Basket
             </a>
             <a href="https://github.com/Priyanxhu01/Roombooking" target="_blank" rel="noopener noreferrer">
-              <FaExternalLinkAlt /> Room Booking
-            </a>
-            <a href="https://prisc808.pythonanywhere.com/" target="_blank" rel="noopener noreferrer">
-              <FaExternalLinkAlt /> PythonAnywhere App
+              <FaExternalLinkAlt /> Roomify
             </a>
             <a href="https://priyanxhu01.github.io/basic_website/" target="_blank" rel="noopener noreferrer">
-              <FaExternalLinkAlt /> Basic Website
+              <FaExternalLinkAlt /> WebsiteClone
+            </a>
+            <a href="https://github.com/Priyanxhu01/To-Do-App" target="_blank" rel="noopener noreferrer">
+              <FaExternalLinkAlt /> ToDoList
             </a>
           </div>
         )}
