@@ -57,7 +57,8 @@
 
 .homedetails button{
    padding: 10px 30px; 
-   background-color:rgb(102, 32, 107) ;
+   /* background-color:rgb(102, 32, 107) ; */
+   background: linear-gradient(to right,rgb(36, 36, 155),rgb(103, 4, 112));
    color: aliceblue ;
    border: 2px solid rgb(102, 32, 107);
    margin-top: 30px;
@@ -67,7 +68,7 @@
    cursor: pointer;
 }
 .homedetails button:hover{
-    background-color: transparent;
+    background: transparent;
     color:rgb(102, 32, 107) ;
 }
 @media (max-width:750px) {
